@@ -1,5 +1,3 @@
 # -Bank-Management-System
-import this library
-pyodbc
-tkinter
-datetime
+Set your mssql database from fonksiyonlar.py
+Firstly run girisEkran.py
